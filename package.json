@@ -4,7 +4,7 @@
   "description": "học buổi 16 Khoa Phạm https://www.youtube.com/watch?v=cOIcuiSrBUQ&list=PLskv-UQHb1ihcsWVMHIvjjBWnoGkhNc_1&index=17",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha -w",
     "start": "nodemon index.js"
   },
   "repository": {
